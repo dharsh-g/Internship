@@ -29,6 +29,20 @@ the data collected on Bird Strikes by FAA between 2000-2011.
 ## Data Cleaning :
    From the provided data unwanted data has been cleaned using excel.
 
+## Case Studies :
+  ● Visuals Depicting the Number of Bird Strikes
+  ● Yearly Analysis & Bird Strikes in the US
+  ● Top 10 US Airlines in terms of having encountered bird strikes
+  ● Airports with most incidents of bird strikes – Top 50
+  ● Yearly Cost Incurred due to Bird Strikes:
+  ● When do most bird strikes occur?
+  ● Altitude of aeroplanes at the time of strike
+  ● Phase of flight at the time of the strike.
+  ● Average Altitude of the aeroplanes in different phases at the time of strike
+  ● Effect of Bird Strikes & Impact on Flight
+  ● Effect of Strike at Different Altitude
+  ● Were Pilots Informed? & Prior Warning and Effect of Strike Relation
+
 ## Insights :
   <li>42.72% incidents where pilot was warned about the birds</li>
   <li>Prior warning to the pilot reduces the risk of damage to the aircraft</li>
