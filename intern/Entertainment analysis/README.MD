@@ -21,3 +21,4 @@ mass media entertainment.
     Entertainer-Breakthrough Info: It consists of details about the 70 entertainers like breakthrough year, first major award, breakthrough movie name
     Entertainer-Last major work Info: It consists of the details about the 70 entertainers last major work and if died, Year of death details
 
+## Data populating flow
