@@ -17,6 +17,6 @@ mass media entertainment.
   Analyzing details about the entertainers by populating data and creating a dashboard in Tableau.
 
 ## Dataset :
-  Entertainer
+  Entertainer-Basic Info: It consists of list of 70 Entertainers Name, Birth year and Gender
 
 ## Data populating flow
