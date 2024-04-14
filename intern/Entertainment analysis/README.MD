@@ -31,7 +31,7 @@ mass media entertainment.
   <li>Profession</li>
   <li>Total Nominations</li>
 
-##Insights :
+## Insights :
   <li>More total awards won by actors</li>
   <li>Singer has won higher awards in their respective field comparing too movies and tv shows awards</li>
   <li>Made top n entertainers from the data and added this as filter</li>
