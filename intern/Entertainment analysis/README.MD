@@ -17,8 +17,8 @@ mass media entertainment.
   Analyzing details about the entertainers by populating data and creating a dashboard in Tableau.
 
 ## Dataset :
-  1.Entertainer-Basic Info: It consists of list of 70 Entertainers Name, Birth year and Gender
-  2.Entertainer-Breakthrough Info: It consists of details about the 70 entertainers like breakthrough year, first major award, breakthrough movie name
+<br>1.Entertainer-Basic Info: It consists of list of 70 Entertainers Name, Birth year and Gender</br>
+<br>2.Entertainer-Breakthrough Info: It consists of details about the 70 entertainers like breakthrough year, first major award, breakthrough movie </br>
   3.Entertainer-Last major work Info: It consists of the details about the 70 entertainers last major work and if died, Year of death details
 
 ## Data populating flow:
