@@ -3,7 +3,7 @@
 Unified Mentor Private Limited
 
 Upskilled in :
- <li>python and libraries of python related to data analytics like numpy,pandas,matplotlib,seaborn</li>
+ <li>Python and libraries of python related to data analytics like numpy,pandas,matplotlib,seaborn</li>
  <li>Statistics</li
  <li>Tableau-Data Visulaization Tool</li>
 
